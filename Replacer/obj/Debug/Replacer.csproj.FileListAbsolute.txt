@@ -1,0 +1,6 @@
+c:\users\fcelik\source\repos\Replacer\Replacer\bin\Debug\Replacer.exe.config
+c:\users\fcelik\source\repos\Replacer\Replacer\bin\Debug\Replacer.exe
+c:\users\fcelik\source\repos\Replacer\Replacer\bin\Debug\Replacer.pdb
+c:\users\fcelik\source\repos\Replacer\Replacer\obj\Debug\Replacer.csproj.CoreCompileInputs.cache
+c:\users\fcelik\source\repos\Replacer\Replacer\obj\Debug\Replacer.exe
+c:\users\fcelik\source\repos\Replacer\Replacer\obj\Debug\Replacer.pdb
